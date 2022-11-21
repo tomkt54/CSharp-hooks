@@ -1,0 +1,10 @@
+{
+    "files.exclude":
+    {
+        "**/.DS_Store":true,
+        "**/.git":false,
+        "**/.gitignore":false,
+        "**/.gitmodules":true
+    },
+    "FSharp.suggestGitignore": false
+}
